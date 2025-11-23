@@ -15,7 +15,7 @@ This project explores the basic fundamentals of a simple AI agent using the **Mi
 
 
 ## 📁 Project Structure
-ai tic tac toe/
+ai_tic_tac_toe_game/
 - game.py       # includes main tic tac toe game logic
 - ai_agent.py   # includes AI agent functions using minimax
 - main.py       # CLI interface to play the game
